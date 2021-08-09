@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/psicontigo/node_modules
+/psicontigo/.pnp
+/psicontigo/.pnp.js
+
+# testing
+/psicontigo//coverage
+
+# production
+/psicontigo/build
+
+# misc
+/psicontigo/.DS_Store
+/psicontigo/.env.local
+/psicontigo/.env.development.local
+/psicontigo/.env.test.local
+/psicontigo/.env.production.local
+
+/psicontigo/npm-debug.log*
+/psicontigo/yarn-debug.log*
+/psicontigo/yarn-error.log*
