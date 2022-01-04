@@ -1,7 +1,7 @@
 import React from 'react'
 import Profile from './Profile'
-import imagen1 from "./Foto_Maria.jpg"
-import imagen2 from "./Foto_Natalia.jpg"
+import imagen1 from "./Imagen1.png"
+import imagen2 from "./Imagen2.png"
 
 const mariaDescription = "Mi nombre es María gimenes y me dedico a hacer rehabilitación neurocognitiva";
 
